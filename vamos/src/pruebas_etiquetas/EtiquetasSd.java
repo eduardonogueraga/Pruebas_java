@@ -2,7 +2,7 @@ package pruebas_etiquetas;
 
 public class EtiquetasSd {
 
-	//NO SALGAS LOL
+
 	
 	static String cadena = ("VAR1<v>45</v>;"
 			+ "VAR2<v>23</v>;"
