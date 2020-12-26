@@ -2,6 +2,7 @@ package pruebas_etiquetas;
 
 public class EtiquetasSd {
 
+	//NO SALGAS LOL
 	
 	static String cadena = ("VAR1<v>45</v>;"
 			+ "VAR2<v>23</v>;"
@@ -80,7 +81,7 @@ public class EtiquetasSd {
 	
 	public static int getValorPropiedad2(String nombreVar) {
 		
-		//s
+		
 		String VALOR_IN = "<v>";
 		String VALOR_OUT = "</v>";
 		/*

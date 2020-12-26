@@ -37,6 +37,10 @@ public class Principal {
 		
 		
 	}
+	
+	static void nuevoMetodoCommit() {
+		//Hola buenos dias;
+	}
 
 	static void datos_prueba1() {
 		
