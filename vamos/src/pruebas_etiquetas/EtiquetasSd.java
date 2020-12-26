@@ -80,7 +80,7 @@ public class EtiquetasSd {
 	
 	public static int getValorPropiedad2(String nombreVar) {
 		
-		
+		//s
 		String VALOR_IN = "<v>";
 		String VALOR_OUT = "</v>";
 		/*
