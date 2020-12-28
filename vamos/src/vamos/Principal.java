@@ -39,8 +39,7 @@ public class Principal {
 	}
 	
 	static void notToShow() {
-		//Hola buenos dias;
-		//Listo para production
+		//No mostrar aun se construye el chiste
 	}
 
 
@@ -53,8 +52,16 @@ public class Principal {
 		//Segundo metodo ;
 	}
 	
+	static void notToShow2() {
+		//Sigue bajando no mostrar
+	}
+	
 	static void nuevoMetodoCommit3() {
 		//Tercer metodo ;
+	}
+	
+	static void nuevoMetodoCommit4() {
+		//Nueva implementacion desde develop
 	}
 	
 	static void datos_prueba1() {
