@@ -38,10 +38,6 @@ public class Principal {
 		
 	}
 	
-	static void notToShow() {
-		//Hola buenos dias;
-		//Listo para production
-	}
 
 
 	static void nuevoMetodoCommit() {
