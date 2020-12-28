@@ -38,10 +38,6 @@ public class Principal {
 		
 	}
 	
-	static void notToShow() {
-		//Hola buenos dias;
-		//Listo para production
-	}
 
 
 	static void nuevoMetodoCommit() {
@@ -51,10 +47,6 @@ public class Principal {
 
 	static void nuevoMetodoCommit2() {
 		//Segundo metodo ;
-	}
-	
-	static void nuevoMetodoCommit3() {
-		//Tercer metodo ;
 	}
 	
 	static void datos_prueba1() {
